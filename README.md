@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on (I work alone but won't mind if you want collaboration)
 - 📫 you can reach me via my gmail- sv9052788@gmail.com
 - 😄 Pronouns: what?
-- ⚡ Fun fact: I am Tony Stark
 
 
 I make sure I lie Perfectly 
