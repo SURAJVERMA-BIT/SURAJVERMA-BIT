@@ -1,4 +1,4 @@
-<h1 align="center">**SURAJ VERMA**</h1>
+<h1 align="center">SURAJ VERMA</h1>
 <h3 align="center">Founder & Chief Architect @XiteAI | Systems Polymath</h3>
 
 <p align="center">
