@@ -44,7 +44,8 @@ My competency lies in **sustainable execution** and **resourcefulness** under pr
 
 * **Strategic Inquiries:** `ceo@xiteai.com`
 * **Product & Technical:** `suraj@xiteai.com`
-* **LinkedIn/Personal:** (Link to your professional profile here)
+* **LinkedIn:** `www.linkedin.com/in/suraj-verma-xiteai`
+
 
 ---
 
