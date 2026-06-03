@@ -1,68 +1,97 @@
-<h1 align="center">SURAJ VERMA</h1>
-<h3 align="center">Founder & Chief Architect @XiteAI | Systems Polymath</h3>
+<h1 align="center">Suraj Verma</h1>
+<h3 align="center">Building XiteAI • Learning AI, systems, and product engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SURAJVERMA-BIT&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/Status-Execution%20Phase-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure%20%7C%20Security%20Tech-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mission-Value%20Creation%20for%20Power%20Users-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SURAJVERMA-BIT&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tools%20%7C%20Product%20Building-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20and%20Learning-informational?style=for-the-badge" />
 </p>
 
 ---
 
-### 💡 **The Strategic Focus**
+### About Me
 
-My work is centered on building the next generation of cohesive digital infrastructure. I treat fragmentation as a critical error in the user workflow, and my discipline is to architect unified, efficient systems where others rely on multiple, disconnected tools.
+I’m a student and builder working on AI tools, backend systems, and product ideas.
 
-> *"We aim not to be the biggest, but to be the indispensable core layer for the world's most demanding professionals."*
+Right now, most of my focus is on **XiteAI**, a platform I’m building to make AI tools more useful, organized, and accessible for students, developers, and power users.
 
----
-
-### ⚙️ **The XiteAI Ecosystem (Flagship Project)**
-
-Building **XiteAI**—a **Unified Intelligence Layer** designed to replace the fragmented, high-friction, and costly workflow currently faced by developers and researchers. Our focus is streamlining efficiency and providing full transparency.
-
-* **Maestro Router:** A proprietary engine dedicated to **cost-optimization** and **accuracy**, dynamically routing queries across 50+ AI models to guarantee the best result for the lowest API spend.
-* **Scalable Financial Model:** Designed a sustainable B2C/B2B model centered on **Full Usage Transparency** to build user trust—the direct antithesis of current industry practices (ref: CompetitionsAnalysis.docx).
-* **Security & Longevity:** XiteAI is the core of a larger, diversified 13-venture roadmap, integrating crucial elements like **Suraksha Hetu** to ensure institutional trust and long-term stability.
+I’m still learning every day, but I like working on real systems instead of just collecting ideas.
 
 ---
 
-### 🏆 **Execution & Core Strengths**
+### What I’m Working On
 
-My competency lies in **sustainable execution** and **resourcefulness** under pressure.
+#### XiteAI
 
-* **System Completion:** Took the **XiteAI Unified Architecture** from a zero-code concept to functional beta in under 8 months, handling the full stack, product, and financial modeling.
-* **Financial Discipline:** A commitment to bootstrapping and resourcefulness, operating at a high level of development quality despite **zero external funding.**
-* **Problem-Solving:** Proven ability to engineer low-cost, high-impact workarounds for major technical constraints (e.g., API limits, cloud expense).
+**XiteAI** is my main project right now.
+
+The goal is to create a cleaner AI workspace where users can access different AI tools, compare outputs, manage usage, and work more efficiently without jumping between too many platforms.
+
+Some areas I’m exploring through XiteAI:
+
+* Multi-model AI access
+* AI model routing
+* Student productivity tools
+* Usage tracking and transparency
+* Backend architecture
+* API integration
+* Cost-efficient AI workflows
 
 ---
 
-### 📧 **Connect**
+### Current Focus
 
-*Connecting with investors, strategic partners, and technical co-founders who share the vision.*
-
-* **Strategic Inquiries:** `ceo@xiteai.com`
-* **Product & Technical:** `suraj@xiteai.com`
-* **LinkedIn:** `www.linkedin.com/in/suraj-verma-xiteai`
-
+* Improving XiteAI’s core architecture
+* Learning better full-stack development practices
+* Working with AI APIs and model routing
+* Building clean, usable product flows
+* Understanding product, pricing, and scalability
+* Turning rough ideas into working systems
 
 ---
 
-### 📊 **Proof of Work: Data & Codebase**
+### Tech & Tools
+
+```txt
+Languages:     Python, JavaScript, HTML, CSS
+Backend:       Flask, Node.js
+Database:      MongoDB, Redis
+AI/ML:         LLM APIs, prompt systems, model routing
+Tools:         Git, GitHub, VS Code, Postman
+Other:         Product thinking, documentation, basic deployment
+```
+
+---
+
+### How I Think About Building
+
+I don’t believe in only talking about ideas.
+
+I try to build, test, break things, fix them, and learn from the process.
+
+For me, GitHub is not about looking perfect.
+It is a place to show progress, experiments, unfinished work, and proof that I’m improving.
+
+---
+
+### Connect
+
+* Email: `suraj@xiteai.com`
+* Product: `xiteai.com`
+* LinkedIn: `www.linkedin.com/in/suraj-verma-xiteai`
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SURAJVERMA-BIT&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURAJVERMA-BIT&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJVERMA-BIT&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SURAJVERMA-BIT&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURAJVERMA-BIT&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJVERMA-BIT&layout=compact&theme=radical" alt="languages" />
 </p>
 
 ---
 
-### 🏅 **Recognition of Effort**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SURAJVERMA-BIT&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+  Building slowly. Learning seriously. Improving every day.
 </p>
-
----
-<h3 align="center">⚡ Building the future. With discipline.</h3>
